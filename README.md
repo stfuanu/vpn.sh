@@ -1,4 +1,8 @@
-# vpn.sh
 
-bash vpn.sh </ClientName/>
+Setup Private OpenVPN server.
+
+
+## Usage :
+
+bash vpn.sh <Client_Name>
 
